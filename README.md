@@ -13,4 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+📫 How to reach me?
+Visit my Website(https://aniketdsalve.github.io/) 🌐
+Connect with me on LinkedIn 👨🏻‍💻
+Follow me on Instagram ✨
+Shoot Me an Email 💌
