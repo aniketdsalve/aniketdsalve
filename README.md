@@ -29,7 +29,7 @@ I mostly work with Python, Jenkins CICD, Gitlab CICD, and Cloud based technologi
   </a>
  </p>
 
-### DevOps
+### DevOps Tools
  <p float="left">
   <a href="https://m.do.co/c/3bc2250b7076" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/do.gif"  height="75" />
@@ -37,8 +37,10 @@ I mostly work with Python, Jenkins CICD, Gitlab CICD, and Cloud based technologi
   <a href="https://aws.amazon.com/" target="_blank" >
     <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/aws.gif"  height="75" />
   </a>
+   <br>
+   <br>
   <a href="" target="_blank" >
-    <img src="https://github.com/aniketdsalve/aniketdsalve/blob/main/gitlab_cicd.gif"  height="75" />
+    <img src="https://github.com/aniketdsalve/aniketdsalve/blob/main/gitlab_cicd.gif"  height="200" />
   </a>
  </p>
  
