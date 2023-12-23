@@ -1,7 +1,11 @@
 ### Hi there 👋
 
-<!--
-**aniketdsalve/aniketdsalve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Aniket, a DevOps Engineer from IN, passionate about developing production-ready DevOps Projects with 4+ years of professional onsite as well as remote working experience. 🎯
+
+I mostly work with Python, Jenkins CICD, Gitlab CICD, and Cloud based technologies. 🚀
+DevOps Tools
+
+Databases and Monitoring
 
 Here are some ideas to get you started:
 
@@ -14,8 +18,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-📫 How to reach me?
-Visit my Website(https://aniketdsalve.github.io/) 🌐
-Connect with me on LinkedIn 👨🏻‍💻
-Follow me on Instagram ✨
-Shoot Me an Email 💌
+📫 How to reach me?<br>
+Visit my [Website 🌐](https://aniketdsalve.github.io/)<br>
+Connect with me on [LinkedIn 👨🏻‍💻](https://www.linkedin.com/in/ani-salve/)<br>
+Follow me on [Instagram ✨](https://www.instagram.com/anik8_5alve/)<br>
+Shoot Me an [Email 💌](aniketdsalve16@gmail.com)
