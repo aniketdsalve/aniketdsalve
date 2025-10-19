@@ -1,5 +1,13 @@
-### Hi there 👋
+<div align="center">
+  
+  <h1>Hello All 👋</h1>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Consultant;DevOps+Engineering;6%2B+Years+Experience;Cloud+And+Kubernetes+Expert)](https://git.io/typing-svg)
 
+</div>
+
+---
+## 🚀 About Me
 I am Aniket, a DevOps Engineer from IN, passionate about developing production-ready DevOps Projects with 4+ years of professional onsite as well as remote working experience. 🎯<br>
 
 I mostly work with Python, Jenkins CICD, Gitlab CICD, and Cloud based technologies. 🚀<br>
